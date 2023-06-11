@@ -219,7 +219,7 @@ body {
 .features .features-tab .left-col::after {
     content: "";
     position: absolute;
-    left: -15rem;
+    left: -20rem;
     bottom: -4rem;
     width: 120%;
     height: 95%;
